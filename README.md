@@ -1,5 +1,9 @@
 # Contact Keeper
 
-## Setup
+## Development environment
 
-- Mongodb - ContactKeeper
+Start the node server and the react application
+
+```
+npm run dev
+```
